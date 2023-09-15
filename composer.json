@@ -13,10 +13,11 @@
   ],
   "autoload": {
     "classmap": [
-      "src/phpcsvDemo.php"
+      "src/PhpcsvDemo.php"
     ]
   },
   "require": {
-    "php": ">=5.4"
+    "php": ">=5.4",
+    "ext-zlib": "*"
   }
 }
