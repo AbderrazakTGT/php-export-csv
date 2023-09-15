@@ -1,0 +1,22 @@
+{
+  "name": "phpcsvDemo/phpcsvDemo",
+  "description": "Export data to Excel XLSx file. PHP XLSX generator.",
+  "keywords": ["" ],
+  "homepage": "https://github.com/AbderrazakTGT/php-export-csv",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AbderrazakTGT",
+      "email": "abderrazak.tigiti@gmail.com",
+      "homepage": ""
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/phpcsvDemo.php"
+    ]
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
